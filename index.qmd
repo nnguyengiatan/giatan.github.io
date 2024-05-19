@@ -2,14 +2,7 @@
 title: "Home"
 about:
   template: solana
-  image: images/avater.jpg
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/nnguyengiatan
-    - icon: linkedin
-      text: Linkedin
-      href: www.linkedin.com/in/tannguyen2406  
+  image: images/avater.jpg 
 ---
 
 I am a Master student in Mathematics Finance at Ulm University. My research focus on game theory and behavioral economics, applying mathematics model to explain how people interact and make choice under uncertainty. 

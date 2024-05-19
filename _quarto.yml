@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Tan Nguyen"
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +12,11 @@ website:
       - Research.qmd
       - Publication.qmd
       - CV.qmd
+    tools:
+      - icon: github
+        href: https://github.com/nnguyengiatan
+      - icon: linkedin
+        href: www.linkedin.com/in/tannguyen2406
 
 format:
   html:
