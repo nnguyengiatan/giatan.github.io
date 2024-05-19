@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Website"
+  title: "Tan Nguyen"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research.qmd
+      - Publication.qmd
+      - CV.qmd
 
 format:
   html:
