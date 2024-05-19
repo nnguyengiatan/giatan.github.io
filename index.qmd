@@ -1,31 +1,36 @@
 ---
 title: "Home"
 about:
-  template: jolla
+  template: solana
   image: images/avater.jpg
   links:
     - icon: github
       text: Github
       href: https://github.com/nnguyengiatan
+    - icon: linkedin
+      text: Linkedin
+      href: www.linkedin.com/in/tannguyen2406  
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am a Master student in Mathematics Finance at Ulm University. My research focus on game theory and behavioral economics, applying mathematics model to explain how people interact and make choice under uncertainty. 
 
-## Education
+Please feel free to contact me via giatan[at]outlook.com. If there is anything else you can't find on these pages, please send email to me. 
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+:::: {.columns}
+::: {.column width="50%"}
+### Interest
+* Game theory
+* Behavioral Economics
+* Asset Pricing
+:::
+::: {.column width="50%"}
+### Education
+**Ulm University**, Ulm
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+*MS.c in Mathematics Finance* | 2024 - 2026 (expected)
 
-## Experience
+**Banking Academy**, Hanoi
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
-
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*Bachelor in Finance* | 2018 - 2022
+:::
+::::

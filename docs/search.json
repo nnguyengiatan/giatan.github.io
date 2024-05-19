@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "I am a Master student in Mathematics Finance at Ulm University. My research focus on game theory and behavioral economics, applying mathematics model to explain how people interact and make choice under uncertainty.\nPlease feel free to contact me via giatan[at]outlook.com. If there is anything else you can’t find on these pages, please send email to me.\n\n\n\nInterest\n\nGame theory\nBehavioral Economics\nAsset Pricing\n\n\n\n\nEducation\nUlm University, Ulm\nMS.c in Mathematics Finance | 2024 - 2026 (expected)\nBanking Academy, Hanoi\nBachelor in Finance | 2018 - 2022"
   },
   {
     "objectID": "index.html#education",
@@ -18,6 +18,27 @@
     "href": "index.html#experience",
     "title": "Home",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#first-column",
+    "href": "index.html#first-column",
+    "title": "Home",
+    "section": "First column",
+    "text": "First column\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column"
+  },
+  {
+    "objectID": "index.html#second-column",
+    "href": "index.html#second-column",
+    "title": "Home",
+    "section": "Second column",
+    "text": "Second column\nand here\nMore text"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Please click here to see my CV: here"
   }
 ]
